@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Env
+backend/.env
+frontend/.env
